@@ -11,7 +11,7 @@ The classifier is deployed in the [Heroku](https://www.heroku.com/platform) appl
 #### Step-1 
 Open a `terminal`, clone the `Question-analyzer` repository and go into the directory using the command `cd`.
 ```bash
-git clone https://github.com/sherwin7/Question-analyzer.git
+https://github.com/Sarvesh1523/Question-analyzer
 
 cd Question-analyzer
 ```
